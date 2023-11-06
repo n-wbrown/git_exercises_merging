@@ -1,0 +1,1 @@
+This is the complex file. It will prove slightly more difficult to merge. Conflicting changes will be added to this file so that when merged, the conflict will need to be resolved.
